@@ -1,24 +1,16 @@
-# VeeamHub Repository Template
+# Puppet Modules
 
-Here are instructions on how to use this template:
+This repository contains source code for Puppet modules for various Veeam solutions along with sample usage.
 
-* Navigate to the [main page of this repository](https://github.com/VeeamHub/veeamhub-template)
-* Follow instructions for [creating a repository from a template](https://help.github.com/en/articles/creating-a-repository-from-a-template)
-  * _Repository names **must** have the prefix:_ **veeam-**
-  * Example: _veeam-repo-name_
-* Replace **all** repository-specific links
-  * `issues` link in _README.md_
-  * `create an issue` link in _README.md_
-  * `opening a new issue` link in _CONTRIBUTING.md_
-* Remove the instructions from this section and replace it with information describing this repository.
+Puppet is a configuration management tool used to manage various stages of the IT infrastructure lifecycle, including _provisioning_, _patching_, _configuration_, and _management_ of operating system and application components across enterprise data centers and cloud infrastructures. There are both [paid](https://puppet.com/products/puppet-enterprise) and [open-source](https://puppet.com/download-open-source-puppet) versions of Puppet.
 
 ## 📗 Documentation
 
-_Place documentation or links to documentation here._
+Documentation, including usage instructions, can be found with each Puppet module.
 
 ## ✍ Contributions
 
-We welcome contributions from the community! We encourage you to create [issues](https://github.com/VeeamHub/{repo-name}/issues/new/choose) for Bugs & Feature Requests and submit Pull Requests. For more detailed information, refer to our [Contributing Guide](CONTRIBUTING.md).
+We welcome contributions from the community! We encourage you to create [issues](https://github.com/VeeamHub/veeam-puppet/issues/new/choose) for Bugs & Feature Requests and submit Pull Requests. For more detailed information, refer to our [Contributing Guide](CONTRIBUTING.md).
 
 ## 🤝🏾 License
 
@@ -26,4 +18,4 @@ We welcome contributions from the community! We encourage you to create [issues]
 
 ## 🤔 Questions
 
-If you have any questions or something is unclear, please don't hesitate to [create an issue](https://github.com/VeeamHub/{repo-name}/issues/new/choose) and let us know!
+If you have any questions or something is unclear, please don't hesitate to [create an issue](https://github.com/VeeamHub/veeam-puppet/issues/new/choose) and let us know!
